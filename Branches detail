@@ -1,0 +1,6 @@
+#About branches
+Branches will avoid programatic working code deployment into server
+In many ways it will helpful when you working with different people Instead of messing around in the same branch we will introduce new branches so that proper will deploy
+into server and make changes agaian push back to same branch.
+Consider I have production main branch I will add only working codes into this branch for testing the code I create the new branch it will helpful in testing the code
+before send into production.
